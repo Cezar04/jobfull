@@ -1,6 +1,6 @@
 # jobFull
 
- Jobfull is a platform that allows users to post jobs and apply to open jobs. The backend is written în Java using Spring Boot, Spring Security,Hibernate and Postgres. The front end is written în React with Tailwind for styling.
+ Jobfull is a platform that allows users to post jobs and apply to open jobs. The backend is written în Java using Spring Boot, Spring Security with JWT Token,Hibernate and Postgres. The front end is written în React with Tailwind for styling.
  
 
 ### Technologies used
