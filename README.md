@@ -63,3 +63,5 @@ the web interface will run at http://0.0.0.0:1080
 ## Open Frontend folder in your IDE
 - run `$ npm install` in IDE terminal;
 - run `$ npm start`;
+
+!!! if you want to implement your own database, change in BASE_URL.js file, the url for Backend: 'http://localhost:8080/api/v1';
