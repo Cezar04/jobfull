@@ -60,7 +60,7 @@ this will install maildev, and open a SMTP Server + Web Interface for viewing an
 the web interface will run at http://0.0.0.0:1080
 
 
-## Open Frontend folder in your IDE
+### Open Frontend folder in your IDE
 - run `$ npm install` in IDE terminal;
 - run `$ npm start`;
 
